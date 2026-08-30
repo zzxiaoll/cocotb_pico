@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1788086449" />
+    <testcase name="test_picorv32_diffstep" classname="test_picorv32_diffstep" file="/home/yanru/data/picorv32/cocotb_picorv32_standISA/test_picorv32_diffstep.py" lineno="242" time="52.43767952919006" sim_time_ns="3869110.001" ratio_time="73784.92022794818" />
+  </testsuite>
+</testsuites>
